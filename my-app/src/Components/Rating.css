@@ -1,0 +1,72 @@
+.Card{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 40px;
+    justify-content: space-around;
+}
+.Star--Container{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: hsl(214,22%,19%);
+    display: flex;
+  justify-content: center;
+}
+img {
+    width: 50%;
+    margin: auto;
+    display: block;
+  }
+  .Text--Container{
+    margin-bottom: 1em;
+  }
+  .Feedback--P{
+      color: hsl(216, 12%, 54%);
+      line-height: 1.5em;
+      font-weight: 700;
+      width: 22rem;
+  }
+  .Button-container{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+  }
+  .Ratting--Button{
+    margin-right: 1.2em;
+    width: 50px;
+    border: none;
+    height: 50px;
+    border-radius: 50%;
+    background-color: hsl(214,22%,19%);
+    color: hsl(216, 12%, 54%);
+    font-weight: 700;
+  }
+  .Ratting--Button:hover{
+      color: white;
+      background-color:hsl(216, 12%, 54%); ;
+      cursor: pointer;
+  }
+  .Sumbit--Button{
+      margin-top: 1.5em;
+      width: 100%;
+      height: 45px;
+      border: none;
+      color: white;
+      border-radius: 30px;
+      background-color: #fc7614;
+      font-weight: 700;
+      text-transform:uppercase;
+      letter-spacing: 00.2em;
+  }
+  .Sumbit--Button--5:hover{
+      color: #fc7614;
+      background-color: white;
+      cursor: pointer;
+  }
+
+  .Sumbit--Button:hover{
+      background-color: white;
+      color: #fc7614;
+      cursor: pointer;
+  }

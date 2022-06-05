@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: hsl(228,11%,9%);
+  font-family: 'Overpass', sans-serif;
+  -webkit-font-smoothing: antialiased;
+
+  background-color: hsl(216, 12%, 8%);
+  font-size: 15px;
+  color: aliceblue;
+}
+.Container{
+  margin: 10em  auto auto;
+  box-sizing: border-box;
+  width: 400px;
+  height: 420px;
+  border-radius: 1.5em;
+  box-shadow: 10px 10px 10px 5px rgb(12, 12, 25);
+  background-color: hsl(215,22%,15%);
+
+}
+
