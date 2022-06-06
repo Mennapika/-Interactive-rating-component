@@ -14,3 +14,17 @@
     border-radius: 40px;
     border: none;
 }
+@media screen and (max-width: 600px) {
+    .Greating-card{
+
+        padding: 10%;
+      
+    }
+    .Score--Container{
+        width: 100%;
+        
+    }
+    .Greating-img{
+        width: 50%;
+    }
+  }

@@ -64,6 +64,18 @@ img {
       color: #fc7614;
       background-color: white;
   }
- 
+  @media screen and (max-width: 600px) {
+    .Card{
+        padding: 7%;
+    }
+    .Ratting--Button{
+        margin-right: 0.8em;
+        width:3em;
+        border: none;
+        height: 3em;
+      
+    }
+    
+  }
 
  
