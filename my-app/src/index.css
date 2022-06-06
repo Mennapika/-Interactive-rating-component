@@ -22,7 +22,7 @@ body {
   color: hsl(216, 12%, 54%);
   line-height: 1.7em;
   font-weight: 400;
-  width: 22rem;
+  width: 100%;
 }
 @media screen and (max-width: 600px) {
   .Container{
