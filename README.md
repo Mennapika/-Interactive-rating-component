@@ -12,13 +12,12 @@ created by using Reactjs , Pure css
 - [x] Make it Responsive 
 - [x] Make it Interactive 
 **Screenshots:**
-Desktop Rating Component :
+
+**Desktop  Components :**
 ![ds1](https://user-images.githubusercontent.com/38566183/172253589-d9d3e566-cfe7-4fe0-b1ad-44a160fd0ce0.PNG)
-![dsi1](https://user-images.githubusercontent.com/38566183/172253621-b1764093-4dc3-4e6a-b162-4e9522823cd3.PNG)
-Desktop Greeting  Component :
 ![ds2](https://user-images.githubusercontent.com/38566183/172253734-47139914-cae6-419b-a5c2-1f3fee72c6dc.PNG)
-Mobile Rating Component :
-![ms1](https://user-images.githubusercontent.com/38566183/172253822-fa809e48-9144-45c6-bbb7-57409f8cbb51.PNG)
-![msi1](https://user-images.githubusercontent.com/38566183/172253859-00ac42a1-6864-40a1-9a77-d793e6479eb9.PNG)
-Mobile Greeting  Component :
-![ms2](https://user-images.githubusercontent.com/38566183/172253919-17107250-70bb-44b0-b4af-b9d2277a02e7.PNG)
+
+**Mobile Components :**
+
+![ms1](https://user-images.githubusercontent.com/38566183/172254585-613bc414-d519-48bb-85c5-fd3acae08091.PNG)
+![ms2](https://user-images.githubusercontent.com/38566183/172254601-f5739118-f03d-4ad8-a6f9-eeedfa2aa588.PNG)
